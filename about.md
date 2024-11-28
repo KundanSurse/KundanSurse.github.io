@@ -6,11 +6,10 @@ permalink: /about/
 
 ![Me]({{ site.url }}/assets/images/myphoto.jpg){:width="300px"}
 
-Namaste ! Greetings !
+Nice to see you here !
 
-I am a Ph.D. candidate at **University of New South Wales** in the Department of Physics. I work in Professor Rajib  Rahman's  group ([lab website]()) on **Codencesed Matter Physics**. We work on the **complete stack** of challenges in the quantum world ; from **improving the coherence** of the qubit to deploying qubits for **simulating novel dynamics**. 
+I am a Ph.D. candidate at **University of New South Wales** in the Department of Physics. I work in Professor Rajib  Rahman's  group ([lab website](https://research.unsw.edu.au/people/associate-professor-rajib-rahman)) on **Semiconductor quantum computing and Codencesed Matter Physics**. 
 
-I work on the **coherence challenge** and tackle it in a multi-pronged way. Firstly, by implementing complex circuit designs such as **fluxonium, zero-pi** that show inherent protection from noisy environment. Secondly, by utilizing new superconducting material called **tantalum** which has better oxide properties that improves the qubit coherence. Thirdly, by creating **novel circuit elements** which demonstrate protective hamiltonians against the noisy decoherence channels. 
 
 ### Publications :
 [[1]](https://www.nature.com/articles/s41598-021-99718-7)  Jatakia, P., Vinjanampathy, S., & Saha, K. (2021). Detecting initial correlations via correlated spectroscopy in hybrid quantum systems. Scientific reports, 11(1), 1-11.
