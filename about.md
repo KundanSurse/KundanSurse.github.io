@@ -8,7 +8,7 @@ permalink: /about/
 
 Nice to see you here !
 
-I am a Ph.D. candidate at **University of New South Wales** in the Department of Physics. I work in Professor Rajib  Rahman's  group ([lab website](https://research.unsw.edu.au/people/associate-professor-rajib-rahman)) on **Semiconductor quantum computing and Codencesed Matter Physics**. 
+I am a Ph.D. candidate at **University of New South Wales** in the Department of Physics. I work in Professor **Rajib  Rahman's**  group ([lab website](https://research.unsw.edu.au/people/associate-professor-rajib-rahman)) on **Semiconductor quantum computing and Codencesed Matter Physics**. 
 
 
 ### Publications :
