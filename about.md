@@ -4,7 +4,7 @@ title: Kundan Surse
 permalink: /about/
 ---
 
-![Me]({{ site.url }}/assets/images/Spin.jpeg){:width="300px"}
+![Me]({{ site.url }}/assets/images/MyPhoto.jpg){:width="300px"}
 
 Nice to see you here !
 
